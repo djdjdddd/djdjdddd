@@ -22,6 +22,7 @@ I am Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 ## :mailbox_with_mail: Contacts
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)-->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djdj2297@gmail.com)](mailto:djdj2297@gmail.com)
+![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2-AssetManager-8ccc35d124904f08a20a61b1aa995601](https://www.notion.so/2-AssetManager-8ccc35d124904f08a20a61b1aa995601))
 
 <!--
 **djdjdddd/djdjdddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
