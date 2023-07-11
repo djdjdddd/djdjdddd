@@ -28,7 +28,7 @@ I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?&style=flat-square&logo=Expo&logoColor=white)
 
 ## :mailbox_with_mail: Contacts
-<!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)-->
+[![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/2-AssetManager-8ccc35d124904f08a20a61b1aa995601)](https://www.notion.so/2-AssetManager-8ccc35d124904f08a20a61b1aa995601)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djdj2297@gmail.com)](mailto:djdj2297@gmail.com)
 
 <!--
