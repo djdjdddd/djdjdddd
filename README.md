@@ -17,7 +17,7 @@ I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
 
 #### 2) DevOps
-[홈 서버](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)
+[`홈 서버`](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-squar&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-squar&logo=jenkins&logoColor=white)
 
@@ -32,9 +32,11 @@ I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
+<!--
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?&style=flat-square&logo=Expo&logoColor=white)
+-->
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djdj2297@gmail.com)](mailto:djdj2297@gmail.com)
