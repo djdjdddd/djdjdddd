@@ -17,7 +17,7 @@ I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
 
 #### 2) DevOps
-🗄️[홈 서버](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)
+🗄️[홈 서버](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)🗄️
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-squar&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-squar&logo=jenkins&logoColor=white)
 
