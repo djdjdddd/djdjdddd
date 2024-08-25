@@ -5,6 +5,7 @@
 <br>
 I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 
+#### About Me
 - 경희대학교 화학과 학부 졸업
 - 신한DS 금융 SW 아카데미 1기 수료
 - 現 웅진IT 개발자
