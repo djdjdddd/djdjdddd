@@ -31,8 +31,8 @@ I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djdj2297@gmail.com)](mailto:djdj2297@gmail.com)
 
 #### Books
-- Clean Code
-- Effective Java
+- [Clean Code](https://github.com/djdjdddd/TIL/blob/main/07.%20Books/CleanCode.md)
+- [Effective Java](https://github.com/djdjdddd/TIL/tree/main/02.%20Backend/Java/Effective_Java)
 
 <!--
 ## 🛠️ Skills
