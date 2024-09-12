@@ -3,22 +3,23 @@
 <br>
 금융 도메인에 관심이 많은 2년차 백엔드 개발자 김용희입니다.
 <br>
-I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
+저의 업무 경험과 프로젝트에 대해 더 궁금하시다면 방문해보세요!
+<br>
+&rightarrow; [포트폴리오](https://djdjdddd.com/portfolio/yong/)
 
-#### About Me
+### 1. About Me
 - 現 웅진IT 개발자
 - 경희대학교 화학과 학부 졸업
-- 신한DS 금융 SW 아카데미 1기 수료
-- [용쓰 포트폴리오](https://djdjdddd.com/portfolio/yong/)
-  - 모바일 앱 개발
-    - [TestFlight 링크](https://testflight.apple.com/join/Sw7AXMHa)
-    - 다운로드 링크 (9월 출시 예정)
-  - [홈 서버 구축](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)🗄️
+- 모바일 앱 개발
+  - [TestFlight 링크](https://testflight.apple.com/join/Sw7AXMHa)
+  - 다운로드 링크 (9월 출시 예정)
+- [홈 서버 구축](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)
+
 <!--
 - 미래산업 인재육성 컨퍼런스 "VALUE UP" 공모전 우수상
 -->
 
-#### SKills
+### 2. SKills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
@@ -28,10 +29,10 @@ I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-squar&logo=jenkins&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
-#### Contacts
+### 3. Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djdj2297@gmail.com)](mailto:djdj2297@gmail.com)
 
-#### Books
+### 4. Books
 - [Clean Code](https://github.com/djdjdddd/TIL/blob/main/07.%20Books/CleanCode.md)
 - [Effective Java](https://github.com/djdjdddd/TIL/tree/main/02.%20Backend/Java/Effective_Java)
 
