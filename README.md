@@ -7,6 +7,8 @@
 <br>
 &rightarrow; [포트폴리오](https://djdjdddd.com/portfolio/yong/)
 
+---
+
 ### 1. About Me
 - 現 웅진IT 개발자
 - 경희대학교 화학과 학부 졸업
