@@ -6,13 +6,13 @@
 I'm Yong Hee Kim, a beginner back-end developer who likes finance and IT.
 
 #### About Me
+- 現 웅진IT 개발자
 - 경희대학교 화학과 학부 졸업
 - 신한DS 금융 SW 아카데미 1기 수료
-- 現 웅진IT 개발자
 - [용쓰 포트폴리오](https://djdjdddd.com/portfolio/yong/)
   - 모바일 앱 개발
-    - [TestFlight](https://testflight.apple.com/join/Sw7AXMHa)
-    - 다운로드 (9월 출시 예정)
+    - [TestFlight 링크](https://testflight.apple.com/join/Sw7AXMHa)
+    - 다운로드 링크 (9월 출시 예정)
   - [홈 서버 구축](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)🗄️
 <!--
 - 미래산업 인재육성 컨퍼런스 "VALUE UP" 공모전 우수상
