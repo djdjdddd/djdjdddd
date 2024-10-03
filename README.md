@@ -7,7 +7,7 @@
 - 現 웅진IT 개발자
 - 경희대학교 화학과 졸업
 - [포트폴리오](https://djdjdddd.com/portfolio/yong/)
-  - '경조사 스토리' 모바일 앱 개발
+  - `경조사 스토리` 모바일 앱 개발
     - [iOS 다운로드](https://apps.apple.com/kr/app/%EA%B2%BD%EC%A1%B0%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC/id6605927117)
     - 안드로이드 다운로드 (준비 중)
   - [홈 서버 구축](https://github.com/djdjdddd/TIL/tree/main/01.%20%ED%99%88%20%EC%84%9C%EB%B2%84)
