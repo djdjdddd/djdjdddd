@@ -1,7 +1,7 @@
 ## 🌱 KIM YONG HEE
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdjdjdddd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://komarev.com/ghpvc/?username=djdjdddd&color=green&style=flat-square)
 <br>
-금융 도메인에 관심이 많은 2년차 백엔드 개발자 김용희입니다.
+금융 도메인에 관심이 많은 3년차 백엔드 개발자 김용희입니다.
 
 ### 1. About Me
 - 現 웅진IT 개발자
