@@ -29,9 +29,11 @@
 ### 3. Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djdj2297@gmail.com)](mailto:djdj2297@gmail.com)
 
+<!--
 ### 4. Books
 - [Clean Code](https://github.com/djdjdddd/TIL/blob/main/07.%20Books/CleanCode.md)
 - [Effective Java](https://github.com/djdjdddd/TIL/tree/main/02.%20Backend/Java/Effective_Java)
+-->
 
 <!--
 ## 🛠️ Skills
