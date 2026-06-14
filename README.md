@@ -1,10 +1,11 @@
 ## 🌱 KIM YONG HEE
 ![Hits](https://komarev.com/ghpvc/?username=djdjdddd&color=green&style=flat-square)
 <br>
-금융 도메인에 관심이 많은 3년차 백엔드 개발자 김용희입니다.
+투자와 금융에 관심이 많은 4년차 개발자 김용희입니다.
 
 ### 1. About Me
-- 現 웅진IT 개발자
+- 現 (주)조이앤비즈 연구소 소속
+- 前 웅진IT WRMS 소속
 - 경희대학교 화학과 졸업
 - [포트폴리오](https://djdjdddd.com/portfolio/yong/)
   - `경조사 스토리` 모바일 앱 개발
